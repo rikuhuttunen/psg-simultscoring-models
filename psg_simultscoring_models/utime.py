@@ -1,3 +1,7 @@
+"""Code to implement models used in the manuscript by Huttunen et. al titled
+'A Comparison of Signal Combinations for Deep Learning-Based
+Simultaneous Sleep Staging and Respiratory Event Detection'
+"""
 import math
 import numpy as np
 import tensorflow as tf
