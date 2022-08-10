@@ -1,6 +1,8 @@
 """Code to implement models used in the manuscript by Huttunen et. al titled
 'A Comparison of Signal Combinations for Deep Learning-Based
 Simultaneous Sleep Staging and Respiratory Event Detection'
+
+The model is based on https://github.com/perslev/U-Time
 """
 import math
 import numpy as np
