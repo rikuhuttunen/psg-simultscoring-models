@@ -10,3 +10,6 @@ An example on how to install the model creation code, and to instantiate each of
 
 Trained models are not available, since sensitive patient data was used to train the models.
 
+## Architecture
+
+![architecture](https://github.com/rikuhuttunen/psg-simultscoring-models/blob/b53c8636685348f67bd87b0688a23961ed753ebb/img/paper2_arch_v6.png?raw=true)
