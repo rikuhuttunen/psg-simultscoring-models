@@ -8,7 +8,10 @@ setup(
     author_email = 'riku.huttunen@uef.fi',
     description = 'The models for simultaneous scoring of sleep stages and respiratory events with deep learning.',
     license = 'MIT',
-    packages = find_packages(exclude='tests*'),
+    packages = find_packages(include=[
+        'psg_simultscoring_models',
+        'psg_simultscoring_models.*'
+    ]),
     install_requires = [
         'numpy',
         'tensorflow',
