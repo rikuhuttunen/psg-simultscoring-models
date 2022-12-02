@@ -1,6 +1,6 @@
 # psg-simultscoring-models
 
-Model definitions used in the manuscript by Huttunen et. al titled "A Comparison of Signal Combinations for Deep Learning-Based Simultaneous Sleep Staging and Respiratory Event Detection"
+Model definitions used in the manuscript by Huttunen et. al titled "[A Comparison of Signal Combinations for Deep Learning-Based Simultaneous Sleep Staging and Respiratory Event Detection](https://ieeexplore.ieee.org/document/9964431)"
 
 The models are based on https://github.com/perslev/U-Time.
 
